@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b55bd7b-ca6a-4bc4-997d-16cd2c641297" name="Default Changelist" comment="fixing initial commit">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1VD5jo13hgVYO78iZR5gZ8nL46d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37637028" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.java.at.downtheline.stockclient" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.java.at.downtheline.stockclient" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b55bd7b-ca6a-4bc4-997d-16cd2c641297" name="Default Changelist" comment="" />
+      <created>1576774962952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576774962952</updated>
+      <workItem from="1576774966226" duration="2627000" />
+      <workItem from="1576934723030" duration="669000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixing initial commit">
+      <created>1576934881535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576934881535</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixing initial commit">
+      <created>1576934939512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576934939512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixing initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1576935022872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576935022872" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1576929498293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576929498293" />
+    <state x="590" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1576788361408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576788361408" />
+    <state x="453" y="114" key="CommitChangelistDialog2" timestamp="1576935191813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="114" key="CommitChangelistDialog2/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576935191813" />
+    <state x="129" y="84" key="DiffContextDialog" timestamp="1576935190529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="129" y="84" key="DiffContextDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576935190529" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1576929493484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576929493484" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576934983189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576934983189" />
+    <state x="593" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1576935251242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="593" y="253" key="VcsDiffUtil.ChangesDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576935251242" />
+    <state x="776" y="297" width="697" height="445" key="chooseDestDirectoryDialog" timestamp="1576934817830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="297" width="697" height="445" key="chooseDestDirectoryDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576934817830" />
+    <state x="664" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576776090762">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576776090762" />
+    <state x="719" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576776057128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576776057128" />
+    <state x="670" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1576935128027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="311" key="git4idea.merge.GitMergeDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576935128027" />
+    <state x="623" y="311" key="git4idea.merge.GitPullDialog" timestamp="1576935361880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="311" key="git4idea.merge.GitPullDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576935361880" />
+    <state x="343" y="140" key="new project wizard" timestamp="1576775058327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="343" y="140" key="new project wizard/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576775058327" />
+    <state x="666" y="138" key="refactoring.ChangeSignatureDialog" timestamp="1576787883030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="138" key="refactoring.ChangeSignatureDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576787883030" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1576776103003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1576776103003" />
+  </component>
+</project>
